@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- O Novo Banner Centralizado: Sua Bonequinha Interativa -->
- <img width="1024" height="338" alt="7770002d-a20d-4485-b394-f1248cc08f6c" src="https://github.com/user-attachments/assets/707ebbf1-c304-46d9-90df-c96b5fb6feeb" alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />
+
+  <img width="1600" height="527" alt="WhatsApp Image 2026-08-29 at 19 03 34" src="https://github.com/user-attachments/assets/e505ab24-9925-4f01-9166-c6ded7f94c4a" alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />/>
 
 
   <br/>
