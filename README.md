@@ -1,12 +1,11 @@
 <div align="center">
 
-  <!-- Banner com o nome corrigido -->
-<img width="1024" height="697" alt="watermarked_img_18270811859902796916" src="https://github.com/user-attachments/assets/99887eda-8397-4697-a096-3aaded7d0239" />
-
+  <!-- O Novo Banner Centralizado: Sua Bonequinha Interativa -->
+  <img src="URL_DA_SUA_NOVA_IMAGEM_CENTRALIZADA_AQUI.png" alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />
 
   <br/>
 
-  <!-- Texto Animado Rosa -->
+  <!-- Texto Animado Rosa logo abaixo do Banner -->
   <a href="https://github.com/Hellennsouza">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Hellen+Souza!%F0%9F%91%8B;Ci%C3%AAncia+de+Dados+aplicada+a+Neg%C3%B3cios;Foco+em+Finan%C3%A7as+%26+Mercado+Financeiro" alt="Typing SVG Rosa" />
   </a>
