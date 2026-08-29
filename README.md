@@ -12,7 +12,7 @@
   </a>
 
   <p align="center">
-    Graduanda em <b>Ciência de Dados para Negócios (FATEC)</b> | Foco em Business Intelligence, Análise Financeira e Mercado Financeiro (CPA).
+   <b>Ciência de Dados para Negócios (FATEC)</b> | Foco em Business Intelligence, Análise Financeira e Mercado Financeiro (CPA).
   </p>
 
   <!-- Contatos Diretos em Rosa -->
