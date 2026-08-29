@@ -46,8 +46,10 @@
 
 ---
 
-### 📈 Estatísticas do GitHub (Tema Rosa)
+### Estatísticas do GitHub (Tema Rosa)
+
+<!-- Substitua o bloco de código bugado por este aqui -->
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=rose&include_all_commits=true&count_private=true" alt="Status GitHub" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&langs_count=6&theme=rose" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=rose_pine_dawn&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=rose_pine_dawn" alt="Linguagens Mais Usadas" />
 </div>
