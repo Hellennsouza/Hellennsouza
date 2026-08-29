@@ -1,8 +1,13 @@
 <div align="center">
 
-  <!-- Banner com bonequinha e texto animado rosa -->
+  <!-- A Figura Interativa: Seu Novo Banner Profissional -->
+  <img src="URL_DA_SUA_IMAGEM_AQUI.png" alt="Hellen Souza - Data Science & Finance" width="100%" />
+
+  <br/>
+
+  <!-- Texto Animado Rosa sobre o Banner ou Logo Abaixo -->
   <a href="https://github.com/Hellennsouza">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Hellen+Souza!+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Ci%C3%AAncia+de+Dados+para+Neg%C3%B3cios;Foco+em+Finan%C3%A7as+%26+Dados" alt="Typing SVG com Bonequinha" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+sou+Hellen+Souza!%F0%9F%91%8B;Ci%C3%AAncia+de+Dados+aplicada+a+Neg%C3%B3cios;Foco+em+Finan%C3%A7as+%26+Mercado+Financeiro" alt="Typing SVG Rosa" />
   </a>
 
   <p align="center">
@@ -33,7 +38,6 @@
 
 ### 🛠️ Linguagens e Ferramentas
 <div align="center">
-  <!-- Ícones com fundo rosa ao passar o mouse -->
   <img src="https://skillicons.dev/icons?i=py,cpp,vscode,git,github&theme=light" alt="Habilidades Técnicas" />
 </div>
 
