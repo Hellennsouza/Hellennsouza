@@ -46,7 +46,7 @@
 
 ---
 
-### Estatísticas do GitHub (Tema Rosa)
+### Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
