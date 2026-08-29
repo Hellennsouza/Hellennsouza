@@ -1,9 +1,8 @@
 <div align="center">
 
   <!-- O Novo Banner Centralizado: Sua Bonequinha Interativa -->
- <img width="1024" height="338" alt="7770002d-a20d-4485-b394-f1248cc08f6c" src="https://github.com/user-attachments/assets/707ebbf1-c304-46d9-90df-c96b5fb6feeb" />
+ <img width="1024" height="338" alt="7770002d-a20d-4485-b394-f1248cc08f6c" src="https://github.com/user-attachments/assets/707ebbf1-c304-46d9-90df-c96b5fb6feeb" alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />
 
-    alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />
 
   <br/>
 
