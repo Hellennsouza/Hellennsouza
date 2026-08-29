@@ -2,9 +2,8 @@
 
   <!-- O Novo Banner Centralizado: Sua Bonequinha Interativa -->
 
-  
+  <img width="1080" height="608" alt="transforme_esta_imagem_em_um_gif_dinmico" src="https://github.com/user-attachments/assets/c344271f-ca03-4970-9878-4d9a765b7336" />
 
-https://github.com/user-attachments/assets/693e2947-aa6e-4392-aa06-b737432f286e
 
 
   <br/>
