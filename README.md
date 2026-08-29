@@ -1,7 +1,8 @@
 <div align="center">
 
   <!-- Banner com o nome corrigido -->
-  <img width="1024" height="1536" alt="file_00000000eb94720eae589cfc5ddace5a" src="https://github.com/user-attachments/assets/bd74f105-b35c-491d-ab4c-60f8be3735a5" />
+  <img width="1024" height="1536" alt="file_00000000eb94720eae589cfc5ddace5a" src="https://github.com/user-attachments/assets/d77d962b-cb7c-4a8b-a544-eebeb1e8c1e8" />
+
 
   <br/>
 
