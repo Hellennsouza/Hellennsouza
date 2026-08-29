@@ -48,8 +48,6 @@
 
 ### Estatísticas do GitHub (Tema Rosa)
 
-<!-- Substitua o bloco de código bugado por este aqui -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=rose_pine_dawn&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=rose_pine_dawn" alt="Linguagens Mais Usadas" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=radical)
