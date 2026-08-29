@@ -7,10 +7,6 @@
 https://github.com/user-attachments/assets/693e2947-aa6e-4392-aa06-b737432f286e
 
 
-
-  <img width="1600" height="527" alt="WhatsApp Image 2026-08-29 at 19 03 34" src="https://github.com/user-attachments/assets/e505ab24-9925-4f01-9166-c6ded7f94c4a" alt="Hellen Souza - Figura Interativa de Dados & Finanças" width="100%" />/>
-
-
   <br/>
 
   <!-- Texto Animado Rosa logo abaixo do Banner -->
