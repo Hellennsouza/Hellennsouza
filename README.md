@@ -49,8 +49,13 @@
 
 ---
 
-### Estatísticas do GitHub
+### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=radical&v=1)
+<div align="center">
+  <a href="https://github.com/Hellennsouza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellennsouza&theme=nord" alt="Detalhes do Perfil" />
+  </a>
+  <a href="https://github.com/Hellennsouza">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Hellennsouza&theme=nord" alt="Linguagens Mais Usadas" />
+  </a>
+</div>
