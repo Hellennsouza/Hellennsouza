@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/hellen-souza-879051194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:hellenhmpejs@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-FF1493?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
@@ -50,6 +51,6 @@
 
 ### Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hellennsouza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hellennsouza&layout=compact&theme=radical&v=1)
