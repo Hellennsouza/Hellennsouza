@@ -37,6 +37,9 @@
 * 📈 **Mercado Financeiro:** Conhecimentos em Valuation, Riscos e Certificação CPA (ANBIMA).
 * 💼 **Background:** Experiência prévia em Gestão Financeira, recuperação de ativos e otimização de custos operacionais.
 
+## 🚀 Projetos de Extensão (UFOB)
+* **Arduino Mulheres na Ciência (Bolsista CNPq):** Atuação como monitora de robótica, ensinando programação e montagem de Arduino para alunas de cinco colégios estaduais em Barreiras (BA), fomentando a inclusão feminina na tecnologia.
+* **Robótica de Garagem & Caminhão da Ciência:** Apresentação itinerante de projetos de tecnologia e lógica de programação (C/C++) em diversos municípios baianos (Lauro de Freitas, Santa Rita de Cássia, Bom Jesus da Lapa, entre outros), democratizando o acesso à ciência.
 ---
 
 ### 🛠️ Linguagens e Ferramentas
