@@ -47,6 +47,7 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,vscode,git,github&theme=light" alt="Habilidades Técnicas" />
 </div>
 
+
 ---
 
 ### 📈 Estatísticas do GitHub
@@ -54,5 +55,14 @@
 <div align="center">
   <a href="https://github.com/Hellennsouza">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellennsouza&theme=neutral&v=2" alt="Detalhes do Perfil" />
+  </a>
+</div>
+
+### 📈 Estatísticas do GitHub
+
+<div align="center">
+  <a href="https://github.com/Hellennsouza">
+    <!-- Usando a imagem estática isolada e funcional gerada -->
+    <img src="https://raw.githubusercontent.com/Hellennsouza/Hellennsouza/main/languages_card.png" alt="Linguagens Mais Usadas" />
   </a>
 </div>
