@@ -1,8 +1,7 @@
 <div align="center">
 
   <!-- O Novo Banner Centralizado: Sua Bonequinha Interativa -->
-
-  <img width="1080" height="608" alt="transforme_esta_imagem_em_um_gif_dinmico" src="https://github.com/user-attachments/assets/c344271f-ca03-4970-9878-4d9a765b7336" />
+<img width="1600" height="527" alt="WhatsApp Image 2026-08-30 at 13 52 06" src="https://github.com/user-attachments/assets/58e867e2-d8ef-461e-bf9d-f65965234429" />
 
 
 
