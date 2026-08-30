@@ -19,8 +19,7 @@
   <!-- Contatos Diretos em Rosa -->
   <a href="https://www.linkedin.com/in/hellen-souza-879051194" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
+  </a> 
   <a href="mailto:hellenhmpejs@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-FF1493?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
