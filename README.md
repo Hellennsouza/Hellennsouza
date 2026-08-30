@@ -55,7 +55,4 @@
   <a href="https://github.com/Hellennsouza">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hellennsouza&theme=neutral&v=2" alt="Detalhes do Perfil" />
   </a>
-  <a href="https://github.com/Hellennsouza">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=Hellennsouza&theme=neutral&v=2" alt="Linguagens Mais Usadas" />
-  </a>
 </div>
