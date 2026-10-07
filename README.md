@@ -13,7 +13,7 @@
   </a>
 
   <p align="center">
-   <b>Ciência de Dados para Negócios (FATEC)</b> | Foco em Business Intelligence, Análise Financeira e Mercado Financeiro (CPA).
+   <b>Pesquisadora & Desenvolvedora em Antifraude Biométrica, Visão Computacional e Explicabilidade de IA (XAI) | Python & Data Science | Mercado Financeiro & Bancos | SQL | Investigação Fin Crime.
   </p>
 
   <!-- Contatos Diretos em Rosa -->
