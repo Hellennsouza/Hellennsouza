@@ -31,10 +31,10 @@
 ---
 
 ### 📊 Sobre Mim
-* 🔭 **Foco Atual:** Modelagem de dados para negócios, indicadores financeiros e auditoria analítica.
+* 🔭 **Foco Atual:** Pesquisa e desenvolvimento em Antifraude e Inteligência Financeira (FinCrime), aplicando Python e SQL para modelagem de risco, detecção de anomalias e auditoria analítica.
 * 🌱 **Graduação:** Ciência de Dados para Negócios na FATEC Votorantim.
-* 📈 **Mercado Financeiro:** Conhecimentos em Valuation, Riscos e Certificação CPA (ANBIMA).
-* 💼 **Background:** Experiência prévia em Gestão Financeira, recuperação de ativos e otimização de custos operacionais.
+* 📈 **Mercado Financeiro:** Conhecimentos aplicados em Valuation, análise de Riscos e certificação CPA (ANBIMA).
+* 💼 **Background:** Experiência prévia em Gestão Financeira, recuperação de ativos e otimização de custos operacionais. Nas quais agora aplico a ciência de dados para embasar decisões complexas.
 
 ## 🚀 Projetos de Extensão (UFOB)
 * **Arduino Mulheres na Ciência (Bolsista CNPq):** Atuação como monitora de robótica, ensinando programação e montagem de Arduino para alunas de cinco colégios estaduais em Barreiras (BA), fomentando a inclusão feminina na tecnologia.
