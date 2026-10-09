@@ -13,7 +13,7 @@
   </a>
 
   <p align="center">
-   <b>Pesquisadora & Desenvolvedora em Antifraude Biométrica, Visão Computacional e Explicabilidade de IA (XAI) | Python & Data Science | Mercado Financeiro & Bancos | SQL | Investigação Fin Crime.
+   <b>Perita, Pesquisadora & Desenvolvedora em Antifraude & Inteligência Financeira
   </p>
 
   <!-- Contatos Diretos em Rosa -->
