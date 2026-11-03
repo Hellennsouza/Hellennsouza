@@ -43,7 +43,7 @@
 
 ### 🛠️ Linguagens e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,vscode,git,github&theme=light" alt="Habilidades Técnicas" />
+  <img src="https://skillicons.dev/icons?i=py,arduino,cpp,vscode,git,github,gitlab,sqlite,autocad&theme=light" alt="Habilidades Técnicas" />
 </div>
 
 
