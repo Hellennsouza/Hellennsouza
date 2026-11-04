@@ -45,7 +45,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,arduino,cpp,vscode,git,github,gitlab,sqlite,autocad&theme=light" align="absmiddle" />
   <img src="https://img.icons8.com/color/48/trello.png" width="60" height="60" align="absmiddle" alt="Trello" />
-  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/dbeaver_macos_bigsur_icon_189917.png" width="48" height="48" align="absmiddle" alt="DBeaver" />
+  <img width="48" height="48" align="absmiddle" alt="Gemini_Generated_Image_4hi25f4hi25f4hi2" src="https://github.com/user-attachments/assets/4b2e4c77-e412-455b-b786-62997ef9f1f3" />
 </div>
 
 
