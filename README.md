@@ -43,7 +43,8 @@
 
 ### 🛠️ Linguagens e Ferramentas
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,arduino,cpp,vscode,git,github,gitlab,sqlite,autocad&theme=light" alt="Habilidades Técnicas" />
+  <img src="https://skillicons.dev/icons?i=py,arduino,cpp,vscode,git,github,gitlab,sqlite,autocad&theme=light" align="absmiddle" />
+  <img src="https://img.icons8.com/color/48/trello.png" width="60" height="60" align="absmiddle" alt="Trello" />
 </div>
 
 
